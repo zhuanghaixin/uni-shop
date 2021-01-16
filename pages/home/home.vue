@@ -140,18 +140,6 @@
 					height: 100%;
 				}
 			}
-
-			.good:first-child {
-				grid-row-start: 1;
-				grid-row-end: 3;
-				background-color: #f00;
-
-			}
-
-			.good:not(:first-child) {
-				background-color: #0f0;
-
-			}
 		}
 	}
 </style>
