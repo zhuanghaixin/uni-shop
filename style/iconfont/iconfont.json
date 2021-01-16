@@ -1,0 +1,16 @@
+{
+  "id": "2326050",
+  "name": "黑马-优购商城",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "851708",
+      "name": "回到顶部",
+      "font_class": "huidaodingbu",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    }
+  ]
+}
