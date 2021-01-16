@@ -20,6 +20,7 @@ function request({
 			data: data,
 			header: header,
 			success: res => {
+				console.log(res)
 				let code=res.data.meta.status.toString()
 				if(code.startsWith('2')){
 					resolve(res.data.message)
